@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
-def imprimir_hola_mundo(mensaje):
+def mostrar_mensaje(mensaje):
 	print(mensaje)
 
 
 if __name__ == "__main__":
 	mensaje = "hola mundo"
-	imprimir_hola_mundo(mensaje)
+	mostrar_mensaje(mensaje)
 	
